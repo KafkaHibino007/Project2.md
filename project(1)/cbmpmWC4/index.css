@@ -1,0 +1,76 @@
+*{
+    
+}
+
+body{
+ background-color: black;
+}
+
+nav >img {
+  position: relative;
+  left: 25%;
+}
+
+ nav > h1{
+     text-align: center;
+     color: white
+ } 
+ 
+ nav > h2 {
+     text-align: center;
+     font-size: 17px;
+     color: #FFB6C1;
+ } 
+
+nav > h3 {
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+
+div > button {
+    position: relative;
+    left: 29%;
+  margin: 7px;
+  background-color: #0096FF;
+  color:white;
+  border-radius: 5%;
+  width: 125px;
+  height: 35px
+}
+
+main > h1 {
+   position: relative;
+   left: 9%;
+    color: white;
+    font-size: 27px;
+}
+
+main > p {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+footer > img {
+    height: 39px;
+    margin: 15px;
+    padding: 0,10px;
+   position: relative;
+   left: 22%;
+   top: 20%;
+   
+}
+
+footer {
+    background: white;
+}
+
+button > img {
+    padding: 2px;
+   position: absolute;
+   left: 1%;
+   width: 18px;
+   
+}
+
